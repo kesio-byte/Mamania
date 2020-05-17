@@ -1,3 +1,3 @@
 # Mamania
 
-I jsut forked holle world 
+I just forked holle world 
